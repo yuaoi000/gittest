@@ -1,0 +1,12 @@
+【工作区】->add->【暂存区stage】->commit->【本地仓库】->push->【远程仓库】
+
+【工作区】<------------------ pull ----------------- 【远程仓库】
+
+安装完成后，还需要最后一步设置，在命令行输入：
+
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+
+在文件夹里git init 会把这个文件夹初始化成git库
+在已经是git库得文件夹里 git status 才会显示这个文件夹的git状态
