@@ -10,3 +10,6 @@ $ git config --global user.email "email@example.com"
 
 在文件夹里git init 会把这个文件夹初始化成git库
 在已经是git库得文件夹里 git status 才会显示这个文件夹的git状态 111
+
+
+disanci
